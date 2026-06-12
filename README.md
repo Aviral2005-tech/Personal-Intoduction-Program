@@ -1,7 +1,5 @@
 # Personal-Intoduction-Program
 
-# Personal Introduction Program
-
 ## Description
 This Python program asks the user for their name, age, and hobby, then displays a friendly welcome message.
 
